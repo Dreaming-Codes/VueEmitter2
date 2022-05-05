@@ -1,6 +1,9 @@
 {
-  "name": "vue-emitter2",
+  "name": "@dreamingcodes/vue-emitter2",
   "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "license": "MIT",
   "dependencies": {
     "eventemitter2": "^6.4.5"
   },

@@ -1,6 +1,7 @@
 {
   "name": "@dreamingcodes/vue-emitter2",
   "version": "1.0.0",
+  "repository": "git://github.com/Dreaming-Codes/VueEmitter2.git",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "license": "MIT",
